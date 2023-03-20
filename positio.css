@@ -137,3 +137,9 @@ html {
   top: -85px;
   left: 400px;
 }
+
+.small-dot {
+  position: relative;
+  left: -817px;
+  top: 117px;
+}

@@ -1,0 +1,139 @@
+body,
+html {
+  background: rgba(17, 15, 87, 1);
+  height: 842px;
+  width: 595px;
+  border-radius: 0px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#section-1 {
+  position: relative;
+}
+
+.work-together {
+  font-family: "Vollkorn", serif;
+  position: absolute;
+  font-size: 64px;
+  height: 132px;
+  width: 413px;
+  left: 39px;
+  top: 145px;
+  color: rgba(0, 251, 130, 1);
+  line-height: 66px;
+}
+
+.lorem {
+  font-family: "Lato", sans-serif;
+  position: absolute;
+  height: 165px;
+  width: 329px;
+  left: 39px;
+  top: 308px;
+  color: rgba(226, 226, 226, 0.7);
+}
+
+.img-1 {
+  position: absolute;
+  height: 33px;
+  width: 113px;
+  left: 45px;
+  top: 42px;
+}
+
+.logo-container {
+  width: 100%;
+  position: relative;
+  left: 44px;
+  top: 500px;
+  border-radius: 0px;
+}
+
+.logo-circle {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 42px;
+  width: 42px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 0 0px;
+  z-index: 0;
+}
+
+.logo {
+  position: relative;
+  z-index: 1;
+  height: 24px;
+  width: 24px;
+}
+
+#section-2 {
+  position: absolute;
+  display: flex;
+  bottom: 0px;
+  width: 100%;
+}
+
+.dots-1 {
+  position: relative;
+  height: 131px;
+  width: 181px;
+  z-index: 1s;
+  left: -594px;
+  top: 120px;
+}
+
+.dots-2 {
+  position: relative;
+  width: 184px;
+  top: -120px;
+  left: -365px;
+}
+
+.background-image {
+  position: relative;
+}
+
+.dots-3 {
+  position: relative;
+  left: -640px;
+  top: 110px;
+  width: 100px;
+  height: 100px;
+}
+
+#section-3 {
+  position: absolute;
+}
+
+#section-3 img {
+  position: relative;
+  margin-left: 20px;
+}
+
+.line-1 {
+  position: relative;
+  top: -128px;
+  left: 400px;
+}
+
+.line-2 {
+  position: relative;
+  top: -85px;
+  left: 400px;
+}
+
+.line-3 {
+  position: relative;
+  top: -41px;
+  left: 400px;
+}
+
+.line-4 {
+  position: relative;
+  top: -85px;
+  left: 400px;
+}
